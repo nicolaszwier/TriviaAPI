@@ -1,5 +1,9 @@
 # Full Stack API Final Project
 
+## What is this project?
+
+This is a trivia game made in FullStack nanodegree at Udacity. It was built with python Flask on backend and React in the frontend. The starter code was disponibilized by udacity and implemented by me following the instructions contained on this readme.
+
 ## Full Stack Trivia
 
 Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a  webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out. 
